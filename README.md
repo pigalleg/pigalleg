@@ -1,4 +1,3 @@
-## Hi I am Pablo 
 Energy Markets & Optimisation Engineer | Techno-Economic Modelling
 ------------------------------------------------------------------
 
@@ -8,7 +7,7 @@ What I enjoy most is sitting right at the messy intersection of market design, a
 
 Along the way I've delivered consultancy for the European Commission and the World Bank, and I'm currently doing my MPhil at Imperial College London, where I get to dig into how storage and other energy-limited resources can play in energy and reserve markets. It's the kind of problem I'd happily think about on a weekend (and sometimes do 😅).
 
-Most of my building happens in Python — mixed-integer and stochastic optimisation, optimal power flow, dispatch and capacity-expansion modelling — with a soft spot for clean, reproducible pipelines.
+Most of my building happens in Python and Julia — mixed-integer and stochastic optimisation, optimal power flow, dispatch and capacity-expansion modelling — with a soft spot for clean, reproducible pipelines.
 
 Always happy to chat about energy, optimisation, or a good modelling puzzle — feel free to reach out!
 
