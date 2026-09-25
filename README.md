@@ -13,7 +13,7 @@ Always happy to chat about energy, optimisation, or a good modelling puzzle — 
 
 * 🌍  Based in London (open to relocation)
 * ✉️  Drop me a line at [pigalleg@gmail.com](mailto:pigalleg@gmail.com)
-* 🧠  Currently: following a proffesional certificate in ML and AI, modelling storage in energy & reserve markets, and playing with LLM-assisted workflows for large-scale literature and data analysis
+* 🧠  Currently: following a professional certificate in ML and AI, modelling storage in energy & reserve markets, and playing with LLM-assisted workflows for large-scale literature and data analysis
 
 
 ## Skills
